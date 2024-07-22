@@ -34,3 +34,15 @@ Neon lights, code snippets, and digital effects
 Blend of rock 'n' roll aesthetics with CSS themes
 Dynamic scenes of performance and coding
 Bold, colorful, and eye-catching visuals
+
+Prompt 4 Leonardo IA:
+Create high-resolution portraits of the iconic members of the band KISS, set against a pure white background. Each portrait should feature a different band member in their signature makeup and flamboyant costumes. Emphasize the distinct makeup styles of Gene Simmons ("The Demon"), Paul Stanley ("The Starchild"), Ace Frehley ("The Spaceman"), and Peter Criss ("The Catman"). The costumes should reflect their rock persona, with details such as spiked armor, studded leather, and elaborate accessories. Capture the intensity and charisma of their stage presence, focusing on their expressive facial features and powerful gazes. The overall images should be striking, with a sharp contrast between the dark, detailed elements of their appearance and the clean, minimalistic white background.
+
+Stylistic Elements:
+
+High-resolution individual portraits
+Signature makeup and flamboyant costumes
+Pure white background
+Sharp contrast and detailed features
+Intense and charismatic expressions
+
