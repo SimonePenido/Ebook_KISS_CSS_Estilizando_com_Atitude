@@ -13,7 +13,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./imagens/cover.png"
     width="400"  
 />
 </p>
@@ -69,12 +69,12 @@ Stylistic Elements: High-resolution individual portraits; Signature makeup and f
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
+- Imagens utilizadas em `imagens`
 - ebook gerado durante as aulas em `output`
 
 ## 🛠️ Execução
 
-Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei a ferramenta de edição de documentos power point para diagramação.
 
 ## 👨‍💻 Aluna
 
@@ -92,8 +92,8 @@ Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e
     <a href="www.linkedin.com/in/
 simone-penido">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/admsimone/">
-    Instagram</a>
+    <a href="https://www.instagram.com/simoneitads/">
+    Instagram @simoneitads</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
@@ -101,4 +101,4 @@ simone-penido">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Simone Penido](https://github.com/SimonePenido)
