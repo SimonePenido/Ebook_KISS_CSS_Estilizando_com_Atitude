@@ -5,8 +5,8 @@
 
 
 <p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
+<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Curso-28DA77?logo=youtube" alt="DIO - Curso"></a>
+<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Projeto-purple?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 -------
 
@@ -28,7 +28,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/SimonePenido/Ebook_KISS_CSS_Estilizando_com_Atitude/blob/main/documento/Ebook%20-%20KISS%20CSS.pdf" title="Ler o Ebook PDF"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -46,12 +46,10 @@ seguem abaixo.
 
 ### | Ação | Prompt                                                       |
 📌|  título  | Crie um título de um ebook sobre o tema de css, o ebook é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática da banda Kiss no título, me liste 5 variações de títulos                                                        |
-📌| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+📌| conteúdo | Faça um texto para ebook , com foco em CSS, listando as principais características {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre deixe dois títulos sugestivos por tópico, com subtítulos, com 09 capítulos, com textos explicativos curtos aos títulos de capítulo, incluir dois parágrafos curtos em cada subtitulo |
 
 
-
-
-Leonardo IA：
+### Leonardo IA：
 
 ### |  Ação  | prompt |
 
@@ -69,30 +67,12 @@ Stylistic Elements: Iconic KISS makeup and costumes; Neon lights, code snippets,
 Stylistic Elements: High-resolution individual portraits; Signature makeup and flamboyant costumes; Pure white background; Sharp contrast and detailed features; Intense and charismatic expressions.|
 
 📌| imagens 5 | Create a high-resolution portrait of Ace Frehley, the iconic guitarist of the band KISS, set against a pure white background. Emphasize his signature "Spaceman" makeup, featuring the silver face paint with black detailing around the eyes and mouth. His costume should include the classic silver and black spandex outfit with star motifs and futuristic accessories. Capture the intensity and charisma of his stage presence, focusing on his expressive facial features and powerful gaze. Incorporate elements such as his guitar, adorned with flashy designs, to highlight his role as a guitarist. The overall image should be striking, with a sharp contrast between the dark, detailed elements of his appearance and the clean, minimalistic white background.
-Stylistic Elements:
-
-High-resolution portrait;
-Ace Frehley's "Spaceman" makeup
-Silver and black spandex outfit with star motifs
-Futuristic accessories and guitar
-Pure white background
-Sharp contrast and detailed features
-Intense and charismatic expression
+Stylistic Elements: High-resolution portrait; Ace Frehley's "Spaceman" makeup; Silver and black spandex outfit with star motifs; Futuristic accessories and guitar; Pure white background; Sharp contrast and detailed features; Intense and charismatic expression.
 
 📌| imagens 6 | Create a high-resolution portrait of Peter Criss, the iconic drummer of the band KISS, set against a pure white background. Emphasize his signature "Catman" makeup, featuring the green and black face paint with cat-like details around the eyes and mouth. His costume should include the classic black and silver outfit with studded leather and feline motifs. Capture the intensity and charisma of his stage presence, focusing on his expressive facial features and powerful gaze. Incorporate elements such as his drumsticks and a hint of a drum set to highlight his role as a drummer. The overall image should be striking, with a sharp contrast between the dark, detailed elements of his appearance and the clean, minimalistic white background.
+Stylistic Elements: High-resolution portrait; Peter Criss' "Catman" makeup; Black and silver outfit with studded leather and feline motifs; Drumsticks and hints of a drum set; Pure white background; Sharp contrast and detailed features; Intense and charismatic expression.
 
-Stylistic Elements:
-
-High-resolution portrait
-Peter Criss' "Catman" makeup
-Black and silver outfit with studded leather and feline motifs
-Drumsticks and hints of a drum set
-Pure white background
-Sharp contrast and detailed features
-Intense and charismatic expression
-
-📌| imagens 7 | Create a high-resolution group portrait of the iconic band KISS, set against a pure white background, suitable for a large poster. Position the band members in a dynamic and powerful pose that captures their legendary stage presence. Emphasize their signature makeup and flamboyant costumes: 
-Gene Simmons ("The Demon"): Black-and-white face paint with dark eyes, exaggerated tongue, and spiked armor.
+📌| imagens 7 | Create a high-resolution group portrait of the iconic band KISS, set against a pure white background, suitable for a large poster. Position the band members in a dynamic and powerful pose that captures their legendary stage presence. Emphasize their signature makeup and flamboyant costumes:Gene Simmons ("The Demon"): Black-and-white face paint with dark eyes, exaggerated tongue, and spiked armor.
 Paul Stanley ("The Starchild"): Star-studded eye makeup, black leather outfit with silver accents.
 Ace Frehley ("The Spaceman"): Silver face paint with black detailing, silver and black spandex outfit with star motifs.
 Peter Criss ("The Catman"): Green and black face paint with cat-like details, black and silver outfit with studded leather and feline motifs.
