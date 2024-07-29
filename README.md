@@ -96,7 +96,7 @@ Dynamic and powerful pose; Guitars, drumsticks, and musical equipment elements; 
 
 Utilizei os prompts acima nas ferramentas sugeridas durante o curso para gerar o material base e utilizei a ferramenta de edição de documentos power point para diagramação.
 
-## 👨‍💻 Aluna
+## 👸 Aluna
 
 <p>
         <img 
